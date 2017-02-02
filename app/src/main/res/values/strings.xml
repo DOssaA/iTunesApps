@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="img_itemapp">Imagen de la app</string>
+    <string name="sinconexion">No estas conectado a internet. Se requiere para descargar las últimas aplicaciones.</string>
+</resources>
